@@ -1,12 +1,14 @@
 ---
-title: AI Document Intelligence
-emoji: 📚
-colorFrom: blue
+title: Intelligence
+emoji: 🔥
+colorFrom: red
 colorTo: green
 sdk: gradio
-sdk_version: 5.49.1
+sdk_version: 6.28.0
+python_version: '3.13'
 app_file: app.py
-python_version: "3.11"
+pinned: false
+short_description: AI DOC
 ---
 
 # Document Intelligence — LangChain, LangGraph, MCP, CI/CD
