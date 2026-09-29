@@ -1,4 +1,4 @@
-gradio>=5.0,<7.0
+
 pymupdf4llm>=0.0.17,<1.0
 sentence-transformers>=3.0,<6.0
 faiss-cpu>=1.8,<2.0
