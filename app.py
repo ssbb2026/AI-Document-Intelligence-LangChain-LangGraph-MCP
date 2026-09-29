@@ -1,6 +1,6 @@
 """Gradio application for Hugging Face Spaces."""
 import gradio as gr
-from rag_engine import ingest_uploaded_pdf, indexed_sources
+from rag_engine import ingest_uploaded_pdf
 from rag_graph import ask
 
 def upload_pdf(file_path):
